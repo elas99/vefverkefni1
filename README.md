@@ -1,1 +1,2 @@
-# vefverkefni1
+Verkefni 1 
+VEF2B3U
